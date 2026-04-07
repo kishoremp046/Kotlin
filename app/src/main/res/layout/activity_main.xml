@@ -81,11 +81,13 @@
       app:cardElevation="30dp"
       android:layout_marginHorizontal="32dp">
 
+
+      //Button template
       <androidx.appcompat.widget.AppCompatButton
           android:id="@+id/btn"
           android:layout_width="200dp"
           android:layout_height="match_parent"
-          android:text="Start"
+          android:text="Click Start"
           android:textAllCaps="false"
           android:textStyle="bold"
           android:textColor="@color/red"
